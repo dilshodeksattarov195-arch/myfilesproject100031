@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenconnect",
+        "uuid": 150195,
+        "checksum": "h2zdqt"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
